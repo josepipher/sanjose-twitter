@@ -23,6 +23,6 @@ access_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 --------------------------------------------------------------------
 
-``
+```
 pip install sanjose-twitter
-``
+```
