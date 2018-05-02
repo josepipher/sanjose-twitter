@@ -4,10 +4,10 @@ python:
 - '2.7'
 env:
 global:
-- SH=bash
+- SH="bash"
 install:
 - pip install -r requirements.txt
-before_script:
+after_script:
 - echo $SH
 script:
 - python setup.py sdist
