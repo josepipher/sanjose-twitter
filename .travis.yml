@@ -3,11 +3,11 @@ python:
 - '2.6'
 - '2.7'
 env:
+global:
 - SH=bash
 install:
 - pip install -r requirements.txt
 before_script:
-- echo "Hello World"
 - echo $SH
 script:
 - python setup.py sdist
