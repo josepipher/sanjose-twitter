@@ -14,4 +14,5 @@ deploy:
     secure: WNkONb0y1oJUKTjQDiIaOKV2KqtBJmMO7fVuF/PGwEYYf0qEbGep47rDxm+bP7+KCfJ3gIUuakil+BifrG+vzDRsNh1s2jUvl+Yzp+teOCr+XEvtgVW5usuHMF6Jlx0vtnTB79kNMbDASxBgoqyOHjILemIuCMV7ltQjKGC/WIEcs1pRRVr3NxrV2INeZnlGERjayQigFLtvtt05Y4z77BtL6WjzsDC8wI2UYALEGca7i6MpHN5LJdqWklyP3p09PJm5dk+r3D5rIFzbH5Dgynu+6uUFw9WL28I9B7t/TvlWVwefIcc2QnUCYDOkQgcFtTpsKd/FO+OD7UfpsHiRtBFKulBGIqzW7clEZK+Gu7ErOfa+lK1q8steWxHmdyMDIHJRVkOFsqP/x1/akAwqTETNmZEqKeGXPk49aJtkapTXIIV35YY/BHupZGnFHkJ3jFIdCl7dN8Ag/s3+ZMPLaZTBfg9UwNJtOyXyLAqyhMClwf0AYzehHIISFfQ2yFmp9/UgtAnYWpz0hJsjUbiUdJmlEMD3xk7dcLHxROfJc00rAuoJbD41xilm3nrjUOVSPSeoNsMHoxKySs87Hb8wDtxEolMoXM/r2vpfWpssYjJVcGzj/gOF3pgjx9LqSUsTtNUoV8/HbYTmoSp9n8jvHNMWdMrg9egTDZ/dmP+1yfE=
   distributions: sdist
   skip_cleanup: true
-  edge: true
+  edge:
+    branch: v1.8.45
