@@ -6,7 +6,7 @@ def readme():
 
 setup(
   name="sanjose-twitter",
-  version="0.5dev",
+  version="0.6dev",
   description="Getting trends on Twitter",
   long_description=readme(),
   author="sanjose",
